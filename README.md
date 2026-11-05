@@ -4,7 +4,7 @@ A weather app built with React (Create React App).
 
 ## Live Demo
 
-https://darling-otter-e5f1aa.netlify.app/
+https://weather-app-react-eight-liart.vercel.app/
 
 ## Run Locally
 
